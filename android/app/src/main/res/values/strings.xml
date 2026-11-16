@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aviator Rush</string>
+    <string name="app_title">AVIATOR RUSH</string>
+
+    <string name="splash_subtitle">CLIMB · SECURE · COLLECT</string>
+    <string name="splash_loading">LOADING FLIGHT DATA</string>
+
+    <string name="play">PLAY</string>
+    <string name="fly_again">FLY AGAIN</string>
+    <string name="menu">MENU</string>
+
+    <string name="action_go">GO</string>
+    <string name="action_secure">TAP TO SECURE</string>
+    <string name="action_boost">BOOST</string>
+    <string name="action_pause">PAUSE</string>
+    <string name="action_resume">RESUME</string>
+    <string name="action_claim">CLAIM</string>
+    <string name="action_claimed">CLAIMED</string>
+    <string name="action_equip">EQUIP</string>
+    <string name="action_close">CLOSE</string>
+    <string name="action_reset">RESET</string>
+    <string name="action_cancel">CANCEL</string>
+
+    <string name="hub_progress_map">PROGRESS MAP</string>
+    <string name="hub_daily_goals">DAILY GOALS</string>
+    <string name="hub_collection">COLLECTION</string>
+    <string name="hub_rewards">REWARDS</string>
+    <string name="hub_profile">PROFILE</string>
+    <string name="hub_settings">SETTINGS</string>
+    <string name="hub_how_to_play">HOW TO PLAY</string>
+
+    <string name="onboarding_header">HOW TO PLAY</string>
+    <string name="onboarding_next">NEXT</string>
+    <string name="onboarding_start">START FLYING</string>
+    <string name="onboarding_title_1">LAUNCH</string>
+    <string name="onboarding_body_1">Tap GO. Your courier climbs and the flight multiplier starts to grow.</string>
+    <string name="onboarding_title_2">SECURE</string>
+    <string name="onboarding_body_2">Tap to secure before the engine stalls. Secured flights pay Air Miles, a stall pays nothing.</string>
+    <string name="onboarding_title_3">COLLECT</string>
+    <string name="onboarding_body_3">Crates and stages unlock liveries and badges. Three daily goals reset every day.</string>
+    <string name="onboarding_step_state">Step %1$d of %2$d</string>
+
+    <string name="menu_streak_stage">STREAK ×%1$d · STAGE %2$d / %3$d</string>
+    <string name="menu_first_flight">FIRST FLIGHT READY</string>
+    <string name="menu_hero_description">Equipped courier livery</string>
+    <string name="miles_description">%1$s Air Miles</string>
+
+    <string name="game_flight_number">FLIGHT %1$d</string>
+    <string name="game_stage_target">STAGE %1$d · %2$s %3$s</string>
+    <string name="game_hint">TAP SECURE BEFORE THE STALL</string>
+    <string name="game_plane_description">Courier aircraft climbing</string>
+    <string name="game_crate_description">Cargo crate, tap to collect</string>
+    <string name="game_stall_description">Storm cloud, engine stalled</string>
+
+    <string name="stat_fuel">FUEL</string>
+    <string name="stat_streak">STREAK</string>
+    <string name="stat_crates">CRATES</string>
+    <string name="stat_miles">MILES</string>
+    <string name="stat_peak">PEAK</string>
+    <string name="stat_flights">FLIGHTS</string>
+    <string name="stat_secured">SECURED</string>
+    <string name="stat_best">BEST</string>
+    <string name="stat_best_streak">BEST STREAK</string>
+    <string name="stat_stages">STAGES</string>
+
+    <string name="auto_off">OFF</string>
+    <string name="auto_secure_label">AUTO-SECURE AT</string>
+    <string name="unit_multiplier">MULTIPLIER</string>
+    <string name="unit_metres">METRES</string>
+
+    <string name="pause_title">FLIGHT HELD</string>
+    <string name="pause_body">The climb is paused. Resume the flight or abandon it and return to the hangar.</string>
+
+    <string name="result_secured">SAFE LANDING</string>
+    <string name="result_stalled">ENGINE STALLED</string>
+    <string name="result_ceiling">CEILING REACHED · AUTO SECURED</string>
+    <string name="result_no_miles">NO MILES THIS FLIGHT</string>
+    <string name="result_stage_complete">STAGE %1$d COMPLETE</string>
+    <string name="result_unlocked">UNLOCKED · %1$s</string>
+    <string name="result_stage_progress">STAGE %1$d · %2$s %3$s / %4$s</string>
+
+    <string name="progress_stage_count">%1$d / %2$d STAGES</string>
+    <string name="progress_requirement">%1$s %2$s / %3$s</string>
+    <string name="progress_reward">REWARD %1$s MILES</string>
+    <string name="progress_track_complete">TRACK COMPLETE</string>
+    <string name="progress_track_complete_body">All twelve stages flown. The night sky is yours.</string>
+
+    <string name="stage_req_secure">SECURE FLIGHTS</string>
+    <string name="stage_req_reach">REACH</string>
+    <string name="stage_req_crates">COLLECT CRATES</string>
+    <string name="stage_req_streak">SECURE IN A ROW</string>
+
+    <string name="reward_livery">LIVERY</string>
+    <string name="reward_badge">BADGE</string>
+    <string name="reward_miles">MILES</string>
+
+    <string name="goals_reset_in">RESETS IN %1$02d:%2$02d</string>
+    <string name="goals_regenerated">GOALS RESET FOR TODAY</string>
+    <string name="goals_reward">+%1$s MILES</string>
+
+    <string name="collection_unlocked">%1$d / %2$d UNLOCKED</string>
+    <string name="collection_empty_title">NOTHING UNLOCKED YET</string>
+    <string name="collection_empty_body">Fly to earn liveries and badges.</string>
+    <string name="collection_detail_meta">%1$s · %2$s · %3$s</string>
+
+    <string name="rewards_total">TOTAL %1$s MILES</string>
+    <string name="rewards_milestone">%1$s MILES</string>
+    <string name="rewards_remaining">%1$s MILES TO GO</string>
+
+    <string name="profile_miles">%1$s MILES</string>
+    <string name="profile_next_rank">%1$s MILES TO %2$s</string>
+    <string name="profile_max_rank">TOP RANK REACHED</string>
+    <string name="profile_recent">LAST FLIGHTS</string>
+    <string name="profile_no_flights">No flights yet. Launch one from the hangar.</string>
+    <string name="profile_no_stats">Fly your first run to open the flight log.</string>
+
+    <string name="setting_reduced_motion">REDUCED MOTION</string>
+    <string name="setting_reduced_motion_body">Stops parallax, pulses and shimmer</string>
+    <string name="setting_auto_secure">AUTO-SECURE DEFAULT</string>
+    <string name="setting_altitude_unit">ALTITUDE UNITS</string>
+    <string name="setting_reset">RESET PROGRESS</string>
+    <string name="settings_footer">VERSION 1.0 · OFFLINE · FICTIONAL POINTS ONLY · 16+</string>
+    <string name="reset_title">RESET PROGRESS</string>
+    <string name="reset_body">Miles, stages, goals, collection and stats are cleared. This cannot be undone.</string>
+
+    <string name="rank_cadet">CADET</string>
+    <string name="rank_pilot">PILOT</string>
+    <string name="rank_captain">CAPTAIN</string>
+    <string name="rank_ace">ACE</string>
+    <string name="rank_legend">LEGEND</string>
+
+    <string name="rarity_common">COMMON</string>
+    <string name="rarity_rare">RARE</string>
+    <string name="rarity_elite">ELITE</string>
+    <string name="item_kind_livery">LIVERY</string>
+    <string name="item_kind_badge">BADGE</string>
+
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+    <string name="state_disabled_in_flight">Disabled during flight</string>
+    <string name="state_boost_on">Boost running</string>
+    <string name="state_boost_off">Boost ready</string>
+    <string name="state_goal_active">In progress</string>
+    <string name="state_goal_ready">Ready to claim</string>
+    <string name="state_goal_claimed">Claimed</string>
+    <string name="state_reward_locked">Locked</string>
+    <string name="state_reward_ready">Ready to claim</string>
+    <string name="state_reward_claimed">Claimed</string>
+    <string name="state_stage_completed">Completed</string>
+    <string name="state_stage_current">Current stage</string>
+    <string name="state_stage_locked">Locked</string>
+    <string name="state_item_unlocked">Unlocked</string>
+    <string name="state_item_locked">Locked</string>
+    <string name="state_item_equipped">EQUIPPED</string>
+    <string name="state_rewards_ready">%1$d rewards ready</string>
+    <string name="state_goals_ready">%1$d of %2$d goals complete</string>
+    <string name="locked_description">Locked</string>
+
+    <string name="fmt_multiplier">%1$s×</string>
+    <string name="fmt_altitude">%1$s m</string>
+    <string name="fmt_fraction">%1$d / %2$d</string>
+    <string name="fmt_progress_text">%1$s / %2$s</string>
+    <string name="fmt_streak">×%1$d</string>
+    <string name="fmt_streak_label">STREAK ×%1$d</string>
+    <string name="fmt_ready">%1$d READY</string>
+    <string name="fmt_auto">%1$s×</string>
+    <string name="fmt_plus">+%1$s</string>
+
+    <string name="stage_name_1">NIGHT MAIL</string>
+    <string name="stage_name_2">CLOUD LANE</string>
+    <string name="stage_name_3">STORM LANE</string>
+    <string name="stage_name_4">MOON FERRY</string>
+    <string name="stage_name_5">ICE CORRIDOR</string>
+    <string name="stage_name_6">AURORA RUN</string>
+    <string name="stage_name_7">HIGH ORBIT</string>
+    <string name="stage_name_8">DAWN PATROL</string>
+    <string name="stage_name_9">THUNDER GATE</string>
+    <string name="stage_name_10">SILVER REACH</string>
+    <string name="stage_name_11">NORTH BEACON</string>
+    <string name="stage_name_12">LEGEND LINE</string>
+
+    <string name="goal_title_1">SECURE 4 FLIGHTS</string>
+    <string name="goal_title_2">REACH 3.00× ONCE</string>
+    <string name="goal_title_3">COLLECT 10 CRATES</string>
+    <string name="goal_title_4">BOOST 6 TIMES</string>
+    <string name="goal_title_5">SECURE 2 IN A ROW</string>
+    <string name="goal_title_6">COMPLETE 1 STAGE</string>
+
+    <string name="item_name_1">PAPER COURIER</string>
+    <string name="item_name_2">NIGHT MAIL</string>
+    <string name="item_name_3">CARGO SEAL</string>
+    <string name="item_name_4">STORM RUNNER</string>
+    <string name="item_name_5">FUEL ACE</string>
+    <string name="item_name_6">GOLD WING</string>
+    <string name="item_name_7">AURORA MARK</string>
+    <string name="item_name_8">HIGH ORBIT</string>
+    <string name="item_name_9">DAWN SEAL</string>
+    <string name="item_name_10">THUNDER MARK</string>
+    <string name="item_name_11">SILVER CREST</string>
+    <string name="item_name_12">ACE MARK</string>
+
+    <string name="item_flavor_1">The first courier off the line. Light, patient, and never late.</string>
+    <string name="item_flavor_2">Carries the small envelopes nobody else will fly after dark.</string>
+    <string name="item_flavor_3">Awarded for crates hauled through a climbing sky.</string>
+    <string name="item_flavor_4">Built to ride the edge of a storm lane and keep the cargo dry.</string>
+    <string name="item_flavor_5">Given to pilots who know exactly when to burn the tank.</string>
+    <string name="item_flavor_6">Gold trim, warm engine glow, and a habit of landing rich.</string>
+    <string name="item_flavor_7">Struck for a run flown under the northern lights.</string>
+    <string name="item_flavor_8">Thin air, long glide, and a view of the curve of the world.</string>
+    <string name="item_flavor_9">First light on the fuselage after a night of secured runs.</string>
+    <string name="item_flavor_10">Worn by pilots who flew straight through the gate and lived.</string>
+    <string name="item_flavor_11">Silver for the long reach, awarded once the crates stop counting.</string>
+    <string name="item_flavor_12">The mark of a pilot the tower stops questioning.</string>
+
+    <string name="item_req_1">STARTER LIVERY</string>
+    <string name="item_req_2">STAGE 1</string>
+    <string name="item_req_3">STAGE 2</string>
+    <string name="item_req_4">STAGE 3</string>
+    <string name="item_req_5">STAGE 4</string>
+    <string name="item_req_6">STAGE 5</string>
+    <string name="item_req_7">STAGE 6</string>
+    <string name="item_req_8">STAGE 7</string>
+    <string name="item_req_9">STAGE 8</string>
+    <string name="item_req_10">STAGE 9</string>
+    <string name="item_req_11">STAGE 10</string>
+    <string name="item_req_12">STAGE 11</string>
+
+    <string name="milestone_contents_1">+500 MILES</string>
+    <string name="milestone_contents_2">+2,500 MILES</string>
+    <string name="milestone_contents_3">+6,000 MILES</string>
+    <string name="milestone_contents_4">+15,000 MILES</string>
+</resources>
